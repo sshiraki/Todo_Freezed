@@ -10,8 +10,7 @@
   
 ### オリジナル
 
-https://github.com/rrousselGit/river_pod
-  
+https://github.com/rrousselGit/riverpod/tree/master/examples/todos  
   
 ### 日本語のRiverpod公式ドキュメント。
 
